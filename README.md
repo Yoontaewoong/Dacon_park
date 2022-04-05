@@ -7,6 +7,7 @@
 -----------------
 
 ![주차 수요](https://user-images.githubusercontent.com/86470595/161678584-f03cb106-d541-40da-8506-54208283199c.png)
+![화면 캡처 2022-04-05 135304](https://user-images.githubusercontent.com/86470595/161681332-87d99dfd-7fc2-48a3-b995-9c19e1086cb7.png)
 
 
 ### DATA
